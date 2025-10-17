@@ -1,0 +1,15 @@
+🔄 5. Atualizar novas versões
+
+Quando fizer uma nova build:
+
+Gere game_0.0.2.zip.
+
+Faça novo release (tag v0.0.2).
+
+Suba o arquivo.
+
+Atualize o version.json (nova version, url, sha256).
+
+Substitua o antigo version.json hospedado (ou suba um novo no mesmo repositório, se quiser).
+
+Seu launcher vai detectar automaticamente a versão nova.
